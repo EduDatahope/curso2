@@ -1,6 +1,1 @@
-chancho
-pato
-sapazo
-sapito
-tigre
-lobo
+fx() = def x + y
