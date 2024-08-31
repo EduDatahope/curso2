@@ -8,6 +8,4 @@ culazo
 gato
 tigre
 leon
-#####
-pez
-tiburon
+
